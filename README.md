@@ -52,4 +52,4 @@ Loads real speech audio, generates Gaussian noise, and simulates noisy channels:
 See `docs/Lab2_Report.pdf` for full documentation, analysis, and results.
 
 ## Author
-Aloniab Negash | Computer Engineering, University of Houston-Clear Lake
+Aloniab Negash | Computer Engineering Student
